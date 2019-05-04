@@ -1,4 +1,4 @@
-serial
+pandas
 numpy==1.16.*
 matplotlib==3.*
 
